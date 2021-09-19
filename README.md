@@ -28,3 +28,6 @@ Topic Name | Message Type | Message Descriptison
 /vectornav/IMU | sensor_msgs/Imu | Imu data from VectorNav-VN300
 /UBX/hpposllh | ubxtranslator/hpposllh | GPS data from the ground truth RTK GPS
 /UBX/relpos2D | ubxtranslator/hpposllh |
+
+ROS bag download links:
+(rt4_gravel [8GB](https://drive.google.com/file/d/1dKx6_A1V4wN_0NTKCLrWYgIwozsVrO0F/view?usp=sharing))
