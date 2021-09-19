@@ -30,4 +30,9 @@ Topic Name | Message Type | Message Descriptison
 /UBX/relpos2D | ubxtranslator/hpposllh |
 
 ROS bag download links:
-(rt4_gravel [8GB](https://drive.google.com/file/d/1dKx6_A1V4wN_0NTKCLrWYgIwozsVrO0F/view?usp=sharing))
+
+rt4_calib  [6GB](https://drive.google.com/file/d/1IlHBodzK2GZYLctGTVceWP0uZ68y9hkt/view?usp=sharing)
+rt4_gravel [8GB](https://drive.google.com/file/d/1dKx6_A1V4wN_0NTKCLrWYgIwozsVrO0F/view?usp=sharing)
+rt4_rim    [5GB](https://drive.google.com/file/d/1m7y33UzYjT-1VgehGPSIzzcWltGRPb-N/view?usp=sharing)
+rt4_updown [12GB](https://drive.google.com/file/d/1x-nKiURqvLhwyyHBCuPVEdS8MGo1VhOk/view?usp=sharing)
+
