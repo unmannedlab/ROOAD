@@ -39,4 +39,12 @@ rt4_rim    [5GB](https://drive.google.com/file/d/1m7y33UzYjT-1VgehGPSIzzcWltGRPb
 
 rt4_updown [12GB](https://drive.google.com/file/d/1x-nKiURqvLhwyyHBCuPVEdS8MGo1VhOk/view?usp=sharing)
 
+rt5_calib  [6GB](https://drive.google.com/file/d/19kQlU3PpkSEQdq1eZ4w7zs8GBo8p6jeO/view?usp=sharing)
+
+rt5_gravel [7GB](https://drive.google.com/file/d/1NBq-YU0YYuI1-D8DxSXdBeoWQ9hCOfj0/view?usp=sharing)
+
+rt5_rim    [5GB](https://drive.google.com/file/d/1sz33CuQ5rxQtYPe5DIpcOMTW9gpvu9Be/view?usp=sharing)
+
+rt5_updown [10GB](https://drive.google.com/file/d/1Y1CjTEnbPadbg00uw0KLrydDc5-p9Cr0/view?usp=sharing)
+
 
