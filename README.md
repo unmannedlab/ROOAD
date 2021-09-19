@@ -19,3 +19,12 @@
 ### Calibration
 
 ### ROS Bag
+
+Data included in raw ROS bagfiles:
+
+Topic Name | Message Type | Message Descriptison
+------------ | ------------- | ---------------------------------
+/pylon_camera_node/image_raw | sensor_msgs/Image | Images from the Basler Pylon Camera
+/vectornav/IMU | sensor_msgs/Imu | Imu data from VectorNav-VN300
+/UBX/hpposllh | ubxtranslator/hpposllh | GPS data from the ground truth RTK GPS
+/UBX/relpos2D | ubxtranslator/hpposllh |
