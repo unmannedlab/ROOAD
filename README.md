@@ -56,13 +56,19 @@ rt5_updown | [Bag Download [10GB]](https://drive.google.com/file/d/1Y1CjTEnbPadb
 To complement our data contribution, we have also evaluated two leading VIO implementations on our datasets, [OpenVINS](https://github.com/rpng/open_vins) and [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion). Their estimated trajectories and videos of their performances can be found below.
 
 ![rt4 gravel ov](./images/gravel_OV.png) [![rt4 gravel ov vid](https://img.youtube.com/vi/WbgDayy2J-c/0.jpg)](https://youtu.be/WbgDayy2J-c?t=18)
+
 ![rt4 gravel vf](./images/gravel_VF.png) [![rt4 gravel vf vid](https://img.youtube.com/vi/xGu3RKwTInU/0.jpg)](https://youtu.be/xGu3RKwTInU?t=154)
 
+
 ![rt4 rim ov](./images/rim_OV.png) [![rt4 rim ov vid](https://img.youtube.com/vi/GxXQ68BF-5Q/0.jpg)](https://youtu.be/GxXQ68BF-5Q?t=30)
+
 ![rt4 rim vf](./images/rim_VF.png) [![rt4 rim vf vid](https://img.youtube.com/vi/SAcJFjksLlc/0.jpg)](https://youtu.be/SAcJFjksLlc?t=125)
 
-![rt4 updown ov](./images/updown_OV.png) [![rt4 updown ov vid](https://img.youtube.com/vi/z9c9A2YpUD8/0.jpg](https://www.youtube.com/watch?v=z9c9A2YpUD8)
-![rt4 updown vf](./images/updown_VF.png) [![rt4 updown vf vid](https://img.youtube.com/vi/ityaw3vLAhc/0.jpg](https://youtu.be/ityaw3vLAhc?t=78)
+
+![rt4 updown ov](./images/updown_OV.png) [![rt4 updown ov vid](https://img.youtube.com/vi/z9c9A2YpUD8/0.jpg)](https://www.youtube.com/watch?v=z9c9A2YpUD8)
+
+![rt4 updown vf](./images/updown_VF.png) [![rt4 updown vf vid](https://img.youtube.com/vi/ityaw3vLAhc/0.jpg)](https://youtu.be/ityaw3vLAhc?t=78)
+
 
 ## Cite Us
 ~~~text
