@@ -32,6 +32,8 @@ Topic Name | Message Type | Message Descriptison
 /UBX/hpposllh | [ubxtranslator](https://github.com/unmannedlab/ubxtranslator)/hpposllh | GPS data from the ground truth RTK GPS
 /UBX/relpos2D | [ubxtranslator](https://github.com/unmannedlab/ubxtranslator)/hpposllh |
 
+
+![Map of Paths from Ground Truth RTK GPS Co-ordinates](./images/Map2.png)
 ROS bag download links:
 
 rt4_calib  [6GB](https://drive.google.com/file/d/1IlHBodzK2GZYLctGTVceWP0uZ68y9hkt/view?usp=sharing)
