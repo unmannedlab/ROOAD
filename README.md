@@ -17,6 +17,9 @@ Localization is one of the fundamental problems in robotics. Visual Inertial Odo
 [Clearpath Robotics Warthog](https://clearpathrobotics.com/warthog-unmanned-ground-vehicle-robot/)
 
 ### Sensor Suite
+
+![Sensors and orientations](./images/camera_imu_orientation.png)
+
 * [Basler Pylon Camera](https://www.baslerweb.com/en/products/cameras/area-scan-cameras/ace/aca1920-50gc/) - 1920x1200 @ 30FPS, PTP enabled
 * [Vectornav VN300 IMU](https://www.vectornav.com/products/detail/vn-300) - 400 Hz, GPS denied
 * [Ardusimple simpleRTK2B kit](https://www.ardusimple.com/rtk-starter-kits/) - 10 Hz, RTK GPS + heading
@@ -34,6 +37,7 @@ Topic Name | Message Type | Message Descriptison
 
 
 ![Map of Paths from Ground Truth RTK GPS Co-ordinates](./images/Map2.png)
+
 ROS bag download links:
 
 rt4_calib  [6GB](https://drive.google.com/file/d/1IlHBodzK2GZYLctGTVceWP0uZ68y9hkt/view?usp=sharing)
