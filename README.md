@@ -3,7 +3,7 @@
   George Chustz<sup>1</sup> and Srikanth Saripalli<sup>1</sup>
 <p align="center">
   1. <a href="https://www.tamu.edu/">Texas A&M University; </a>
-<p align="center"><a href="https://unmannedlab.github.io/research/ROOAD">[Website]</a> <a href="https://arxiv.org/abs/2109.08228">[Paper]</a> <a href="https://github.com/unmannedlab/ROOAD">[Github]</a> 
+<p align="center"><a href="https://arxiv.org/abs/2109.08228">[Paper]</a> <a href="https://github.com/unmannedlab/ROOAD">[Github]</a> 
 <p align="center"><a href="https://drive.google.com/file/d/1Zlky_363FPBKj7rcW59wKLcUGmP3hi9K/view?usp=sharing">[Download All]</a> <a href="#cite-us">[Cite Us]</a>
 </p>
 
