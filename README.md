@@ -42,21 +42,15 @@ Topic Name | Message Type | Message Descriptison
 
 ROS BAG file, ground truth, and calibration results download links:
 
+Dataset | Bag | Result/Ground truth
+----|----|----
 rt4_calib | [Bag Download [6GB]](https://drive.google.com/file/d/1IlHBodzK2GZYLctGTVceWP0uZ68y9hkt/view?usp=sharing) | [Kalibr Results TXT](https://drive.google.com/file/d/1KFGz1FbT__aJE9vgrIHd8FJMo0kW-6OS/view?usp=sharing)
-
 rt4_gravel | [Bag Download [8GB]](https://drive.google.com/file/d/1dKx6_A1V4wN_0NTKCLrWYgIwozsVrO0F/view?usp=sharing) | [Ground Truth CSV](https://drive.google.com/file/d/1obo7xWEaLf2pHtjXhGM0ElR34sxiWMZj/view?usp=sharing)
-
-
 rt4_rim |[Bag Download [5GB]](https://drive.google.com/file/d/1m7y33UzYjT-1VgehGPSIzzcWltGRPb-N/view?usp=sharing) | [Ground Truth CSV](https://drive.google.com/file/d/1EKl8yDh_lGRBFmIKPT-OiPBS13XtWKK9/view?usp=sharing)
-
 rt4_updown | [Bag Download [12GB]](https://drive.google.com/file/d/1x-nKiURqvLhwyyHBCuPVEdS8MGo1VhOk/view?usp=sharing) | [Ground Truth CSV](https://drive.google.com/file/d/16L1CUACCDBYXo5DSeQ6vgTKYZzCIQHHP/view?usp=sharing)
-
 rt5_calib | [Bag Download [6GB]](https://drive.google.com/file/d/19kQlU3PpkSEQdq1eZ4w7zs8GBo8p6jeO/view?usp=sharing) | [Kalibr Results TXT](https://drive.google.com/file/d/1mHiboL4DgkiUaQX2PnBHk4fKrkJIdYVF/view?usp=sharing)
-
 rt5_gravel | [Bag Download [7GB]](https://drive.google.com/file/d/1NBq-YU0YYuI1-D8DxSXdBeoWQ9hCOfj0/view?usp=sharing) | [Ground Truth CSV](https://drive.google.com/file/d/1zmU6GwauSpB1pMg9WO_QpIRqtuG6apo6/view?usp=sharing)
-
 rt5_rim | [Bag Download [5GB]](https://drive.google.com/file/d/1sz33CuQ5rxQtYPe5DIpcOMTW9gpvu9Be/view?usp=sharing) | [Ground Truth CSV](https://drive.google.com/file/d/13JOYFilD-5ei0t8Wgrso79TCMVDMIfS2/view?usp=sharing)
-
 rt5_updown | [Bag Download [10GB]](https://drive.google.com/file/d/1Y1CjTEnbPadbg00uw0KLrydDc5-p9Cr0/view?usp=sharing) | [Ground Truth CSV](https://drive.google.com/file/d/1SwU6sT4uOSAUhxUkHO8qjIdi-cOMk3ly/view?usp=sharing)
 
 ## Cite Us
