@@ -12,12 +12,6 @@
 
 ## Overview
 
-### Data Collection Platform
-
-### Sensor Setup
-
-### Calibration
-
 ### ROS Bag
 
 Data included in raw ROS bagfiles:
@@ -46,5 +40,16 @@ rt5_gravel [7GB](https://drive.google.com/file/d/1NBq-YU0YYuI1-D8DxSXdBeoWQ9hCOf
 rt5_rim    [5GB](https://drive.google.com/file/d/1sz33CuQ5rxQtYPe5DIpcOMTW9gpvu9Be/view?usp=sharing)
 
 rt5_updown [10GB](https://drive.google.com/file/d/1Y1CjTEnbPadbg00uw0KLrydDc5-p9Cr0/view?usp=sharing)
+
+## Cite Us
+@misc{chustz2021rooad,
+      title={ROOAD: RELLIS Off-road Odometry Analysis Dataset}, 
+      author={George Chustz and Srikanth Saripalli},
+      year={2021},
+      eprint={2109.08228},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+
 
 
