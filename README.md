@@ -43,12 +43,19 @@ rt5_updown [10GB](https://drive.google.com/file/d/1Y1CjTEnbPadbg00uw0KLrydDc5-p9
 
 ## Cite Us
 @misc{chustz2021rooad,
+
       title={ROOAD: RELLIS Off-road Odometry Analysis Dataset}, 
+      
       author={George Chustz and Srikanth Saripalli},
+      
       year={2021},
+      
       eprint={2109.08228},
+      
       archivePrefix={arXiv},
+      
       primaryClass={cs.RO}
+      
 }
 
 
