@@ -7,7 +7,7 @@
 <p align="center"><a href="https://drive.google.com/file/d/1Zlky_363FPBKj7rcW59wKLcUGmP3hi9K/view?usp=sharing">[Download All]</a> <a href="#cite-us">[Cite Us]</a>
 </p>
 
-![Warthog in Ruts](./images/cropped_warthog_in_ruts.png)
+![Warthog in Ruts](./images/cropped_warthog_in_ruts.jpg)
 
 ## Updates
 9/15/2021 Initial release
