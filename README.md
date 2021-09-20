@@ -11,7 +11,7 @@
 9/15/2021 Initial release
 
 ## Overview
-Localization is one of the fundamental problems in robotics. Visual Inertial Odometry is a set of algorithms which attempt to estimate the position and orientation of a subject using only camera(s) and an inertial measurement unit (IMU). We release the RELLIS Off-road Odometry Analysis Dataset to fill a void in available VIO datasets to provide high-quality, accurately time stamped off-road traversal data sequences for VIO researchers and developers. In our d
+Localization is one of the fundamental problems in robotics. Visual Inertial Odometry is a set of algorithms which attempt to estimate the position and orientation of a subject using only camera(s) and an inertial measurement unit (IMU). We release the RELLIS Off-road Odometry Analysis Dataset to fill a void in available VIO datasets to provide high-quality, accurately time stamped off-road traversal data sequences for VIO researchers and developers. Across our data sequences, there is over **20,000 images**, **250,000 IMU readings**, and **6,000 RTK + heading measurements**.
 
 ### Data Collection Platform
 [Clearpath Robotics Warthog](https://clearpathrobotics.com/warthog-unmanned-ground-vehicle-robot/)
