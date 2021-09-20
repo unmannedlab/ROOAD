@@ -16,9 +16,11 @@ Localization is one of the fundamental problems in robotics. Visual Inertial Odo
 ### Data Collection Platform
 [Clearpath Robotics Warthog](https://clearpathrobotics.com/warthog-unmanned-ground-vehicle-robot/)
 
+
+
 ### Sensor Suite
 
-![Sensors and orientations](./images/camera_imu_orientation.png)
+![Sensor Locations](./images/sensor_locations.png)
 
 * [Basler Pylon Camera](https://www.baslerweb.com/en/products/cameras/area-scan-cameras/ace/aca1920-50gc/) - 1920x1200 @ 30FPS, PTP enabled
 * [Vectornav VN300 IMU](https://www.vectornav.com/products/detail/vn-300) - 400 Hz, GPS denied
