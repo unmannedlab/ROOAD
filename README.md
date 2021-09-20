@@ -16,11 +16,10 @@ Localization is one of the fundamental problems in robotics. Visual Inertial Odo
 ### Data Collection Platform
 [Clearpath Robotics Warthog](https://clearpathrobotics.com/warthog-unmanned-ground-vehicle-robot/)
 
-
-
 ### Sensor Suite
 
 ![Sensor Locations](./images/sensor_locations.png)
+Dimensions in cm.
 
 * [Basler Pylon Camera](https://www.baslerweb.com/en/products/cameras/area-scan-cameras/ace/aca1920-50gc/) - 1920x1200 @ 30FPS, PTP enabled
 * [Vectornav VN300 IMU](https://www.vectornav.com/products/detail/vn-300) - 400 Hz, GPS denied
@@ -52,6 +51,18 @@ rt5_calib | [Bag Download [6GB]](https://drive.google.com/file/d/19kQlU3PpkSEQdq
 rt5_gravel | [Bag Download [7GB]](https://drive.google.com/file/d/1NBq-YU0YYuI1-D8DxSXdBeoWQ9hCOfj0/view?usp=sharing) | [Ground Truth CSV](https://drive.google.com/file/d/1zmU6GwauSpB1pMg9WO_QpIRqtuG6apo6/view?usp=sharing)
 rt5_rim | [Bag Download [5GB]](https://drive.google.com/file/d/1sz33CuQ5rxQtYPe5DIpcOMTW9gpvu9Be/view?usp=sharing) | [Ground Truth CSV](https://drive.google.com/file/d/13JOYFilD-5ei0t8Wgrso79TCMVDMIfS2/view?usp=sharing)
 rt5_updown | [Bag Download [10GB]](https://drive.google.com/file/d/1Y1CjTEnbPadbg00uw0KLrydDc5-p9Cr0/view?usp=sharing) | [Ground Truth CSV](https://drive.google.com/file/d/1SwU6sT4uOSAUhxUkHO8qjIdi-cOMk3ly/view?usp=sharing)
+
+## VIO Evaluation
+To complement our data contribution, we have also evaluated two leading VIO implementations on our datasets, [OpenVINS](https://github.com/rpng/open_vins) and [VINS-Fusion](https://github.com/HKUST-Aerial-Robotics/VINS-Fusion). Their estimated trajectories and videos of their performances can be found below.
+
+![rt4 gravel ov](./images/gravel_OV.png) [![rt4 gravel ov vid](https://img.youtube.com/vi/WbgDayy2J-c/0.jpg)](https://youtu.be/WbgDayy2J-c?t=18)
+![rt4 gravel vf](./images/gravel_VF.png) [![rt4 gravel vf vid](https://img.youtube.com/vi/xGu3RKwTInU/0.jpg)](https://youtu.be/xGu3RKwTInU?t=154)
+
+![rt4 rim ov](./images/rim_OV.png) [![rt4 rim ov vid](https://img.youtube.com/vi/GxXQ68BF-5Q/0.jpg)](https://youtu.be/GxXQ68BF-5Q?t=30)
+![rt4 rim vf](./images/rim_VF.png) [![rt4 rim vf vid](https://img.youtube.com/vi/SAcJFjksLlc/0.jpg)](https://youtu.be/SAcJFjksLlc?t=125)
+
+![rt4 updown ov](./images/updown_OV.png) [![rt4 updown ov vid](https://img.youtube.com/vi/z9c9A2YpUD8/0.jpg](https://www.youtube.com/watch?v=z9c9A2YpUD8)
+![rt4 updown vf](./images/updown_VF.png) [![rt4 updown vf vid](https://img.youtube.com/vi/ityaw3vLAhc/0.jpg](https://youtu.be/ityaw3vLAhc?t=78)
 
 ## Cite Us
 ~~~text
