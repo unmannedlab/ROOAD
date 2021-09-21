@@ -23,9 +23,9 @@ Localization is one of the fundamental problems in robotics. Visual Inertial Odo
 ![Sensor Locations](./images/sensor_locations.png)
 Dimensions in cm.
 
-* [Basler Pylon Camera](https://www.baslerweb.com/en/products/cameras/area-scan-cameras/ace/aca1920-50gc/) - 1920x1200 @ 30FPS, PTP enabled
-* [Vectornav VN300 IMU](https://www.vectornav.com/products/detail/vn-300) - 400 Hz, GPS denied
-* [Ardusimple simpleRTK2B kit](https://www.ardusimple.com/rtk-starter-kits/) - 10 Hz, RTK GPS + heading
+* [Basler Pylon Camera](https://www.baslerweb.com/en/products/cameras/area-scan-cameras/ace/aca1920-50gc/) - 1920x1200 @ 30FPS, PTP enabled, [Driver here](https://github.com/unmannedlab/pylon-ros-camera)
+* [Vectornav VN300 IMU](https://www.vectornav.com/products/detail/vn-300) - 400 Hz, GPS denied, [Driver here](https://github.com/unmannedlab/vectornav/tree/feature/resync_imu)
+* [Ardusimple simpleRTK2B kit](https://www.ardusimple.com/rtk-starter-kits/) - 10 Hz, RTK GPS + heading, [Driver here](https://github.com/unmannedlab/ubxtranslator)
 
 ### ROS Bag
 
