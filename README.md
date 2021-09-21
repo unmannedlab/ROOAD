@@ -79,7 +79,7 @@ To complement our data contribution, we have also evaluated two leading VIO impl
 
 ## Kalibr Evaluation Dataset
 In order to determine the efficacy of Kalibr's extrinsics calibration tool, we collected an additional 11 ROS bags of camera-IMU extrinsic calibration motion.
-* [Calibration Datasets](https://drive.google.com/file/d/1241fUYmOM5ro-UqRj6OOTtF4i-jPB1X9/view?usp=sharing)
+* Calibration Datasets [Download 38GB](https://drive.google.com/file/d/1241fUYmOM5ro-UqRj6OOTtF4i-jPB1X9/view?usp=sharing)
 * The IMU, camera, and target parameters are given [here.](./yamls/)
 
 ## Cite Us
