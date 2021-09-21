@@ -77,6 +77,10 @@ To complement our data contribution, we have also evaluated two leading VIO impl
 #### VINS-Fusion
 ![rt5 updown vf](./images/updown_VF.png) [![rt5 updown vf vid](https://img.youtube.com/vi/_iIcDgJGbL0/0.jpg)](https://youtu.be/_iIcDgJGbL0?t=34)
 
+## Kalibr Evaluation Dataset
+In order to determine the efficacy of Kalibr's extrinsics calibration tool, we collected an additional 11 ROS bags of camera-IMU extrinsic calibration motion.
+* [Calibration Datasets](https://drive.google.com/file/d/1241fUYmOM5ro-UqRj6OOTtF4i-jPB1X9/view?usp=sharing)
+* The IMU, camera, and target parameters are given [here.](./yamls/)
 
 ## Cite Us
 ~~~text
